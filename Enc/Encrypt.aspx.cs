@@ -85,7 +85,7 @@ namespace Enc
             }
             else
             {
-               
+
                 EncryptVisiner(before.Text, Key.Text);
             }
             
